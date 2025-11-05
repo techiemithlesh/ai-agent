@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+openai
+gspread
+oauth2client
+python-dotenv
